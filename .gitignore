@@ -1,5 +1,3 @@
-jaxrl_m/
-
 # Python 编译生成的字节码文件
 __pycache__/
 *.py[cod]
