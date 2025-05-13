@@ -51,20 +51,3 @@ Example Launchers:
 1. [Mujoco SAC](examples/mujoco/run_mujoco_sac.py)
 2. [D4RL IQL](examples/mujoco/run_d4rl_iql.py)
 
-
-### Citation
-
-If you use this codebase in an academic work, please cite
-
-```
-@software{jaxrl_minimal,
-  author       = {Dibya Ghosh},
-  title        = {dibyaghosh/jaxrl\_m},
-  month        = April,
-  year         = 2023,
-  publisher    = {Zenodo},
-  version      = {v0.1},
-  doi          = {10.5281/zenodo.7958265},
-  url          = {https://github.com/dibyaghosh/jaxrl_m}
-}
-```
