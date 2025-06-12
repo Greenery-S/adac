@@ -2,6 +2,8 @@
 
 Official implementation of **Advantage-based Diffusion Actor-Critic (ADAC)** using `JAX` and `Flax`.
 
+[paper](https://arxiv.org/abs/2505.05126)
+
 ---
 
 ## Installation
